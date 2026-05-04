@@ -54,7 +54,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>Meal Listing</h1>
+      <h1>Meals Listing</h1>
       <input
         type="text"
         placeholder="Search meals..."
